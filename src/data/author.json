@@ -49,6 +49,11 @@
             "name": "LinkedIn",
             "user": "RaresPortan",
             "url": "https://www.linkedin.com/in/rares-portan"
+        },
+        {
+            "name": "Twitter",
+            "user": "@RaresPortan",
+            "url": "https://twitter.com/RaresPortan"
         }
     ]
 }
