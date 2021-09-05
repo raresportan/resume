@@ -1,44 +1,54 @@
 {
-    "name": "Anna Quincey",
+    "name": "Rares Portan",
     "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "location": "Timisoara, RO",
+    "avatar": "avatar.png",
+    "pronouns": "he/him",
+    "email": "rportan@gmail.com",
+    "website": "https://raresportan.com",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
+        "Java",
         "UI Design",
         "React",
+        "Angular",
+        "Node.js",
+        "Redux",
+        "Gatsby",
+        "Next.js",
+        "Eleventy",
+        "Typescript",        
+        "AWS",
+        "Jest",
+        "ActionScript",
         "Git"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Romanian",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Italian",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@raresportan",
+            "url": "https://github.com/raresportan"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "RaresPortan",
+            "url": "https://www.linkedin.com/in/rares-portan"
         }
     ]
 }

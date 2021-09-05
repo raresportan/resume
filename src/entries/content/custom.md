@@ -3,9 +3,7 @@ tags: custom
 title: Interests
 ---
 
-This is custom content. You can add [anything you want](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in here.
-
-* Reading
-* Punk Rock
-* Climbing
-* Archery
+* Software Development *(It’s not just my career, it’s my hobby)*
+* Reading *(Programming, Sci-Fi and Noir. All in one is the best)*
+* Traveling *()*
+* Rock *(For those about to rock, I salute you)*
