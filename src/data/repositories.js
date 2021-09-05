@@ -29,7 +29,7 @@ module.exports = async function () {
         },
         {
             name: 'gatsby-plugin-twitter-card',
-            description: 'Gatsby plugin that generates twitter card images using a title',
+            description: 'Gatsby plugin that generates Twitter card images using a title',
             html_url: 'https://github.com/raresportan/gatsby-plugins'
         },
         {
