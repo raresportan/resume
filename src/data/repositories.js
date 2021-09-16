@@ -33,9 +33,9 @@ module.exports = async function () {
             html_url: 'https://github.com/raresportan/gatsby-plugins'
         },
         {
-            name: 'My homepage',
-            description: 'My blog about programming, built with Gatsby',
-            html_url: 'https://github.com/raresportan/homepage'
+            name: 'big-island-liberated-ts',
+            description: 'A Typescript version of the "Big Island" game',
+            html_url: 'https://github.com/raresportan/big-island-liberated-ts'
         },
 
     ];
